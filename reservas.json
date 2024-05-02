@@ -1,0 +1,34 @@
+{
+  "reservas": [
+    {
+      "id": 1,
+      "fecha": "2024-03-15",
+      "nombre_solicitante": "Juan Pérez",
+      "email_solicitante": "juan@example.com",
+      "telefono_contacto": "123456789",
+      "espacio_reservado": "Sala de Reuniones A",
+      "descripcion": "Reunión de equipo",
+      "estado": "Pendiente"
+    },
+    {
+      "id": 3,
+      "fecha": "2024-03-17",
+      "nombre_solicitante": "Ana Rodríguez",
+      "email_solicitante": "ana@example.com",
+      "telefono_contacto": "456123789",
+      "espacio_reservado": "Salón Principal",
+      "descripcion": "Evento de networking",
+      "estado": "Pendiente"
+    },
+    {
+      "fecha": "2024-05-02",
+      "nombre_solicitante": "jose",
+      "email_solicitante": "jv319069@gmail.com",
+      "telefono_contacto": "678133593",
+      "espacio_reservado": "1",
+      "descripcion": "estudiar ingles mañana por la tarde",
+      "estado": "Pendiente",
+      "id": 4
+    }
+  ]
+}
